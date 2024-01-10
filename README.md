@@ -1,5 +1,5 @@
 # markdown 문법
-** 헤더(headers)**:
+**헤더(headers)**
 ```
    백틱(`)<-- 3개 코드라인
    markdown문법이 적용안됨
